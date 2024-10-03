@@ -35,40 +35,58 @@ Mata Kuliah : Arsitektur dan Organisasi Komputer 4
 ![Screenshot 2024-10-03 213057](https://github.com/user-attachments/assets/1814a15d-6d1c-4ffb-a12a-e6f457160980)
 
 9. Selanjutnya, klik _**Install Ubuntu**_
+![Screenshot 2024-10-03 213443](https://github.com/user-attachments/assets/25fbe989-f726-446a-be34-60ec4644be36)
 
 10. Tunggu sampai proses selesai
+![Screenshot 2024-10-03 213524](https://github.com/user-attachments/assets/807726ff-4032-4cb3-8f79-eaf83ae7d73e)
 
 11. Setelah selesai, pilih bahasa, lalu klik _**Next**_
+![Screenshot 2024-10-03 222333](https://github.com/user-attachments/assets/5355d41d-a3a7-4c3a-a58f-8da45a6ea5bb)
 
 12. Klik _**Next**_
+![Screenshot 2024-10-03 222350](https://github.com/user-attachments/assets/13060964-0c21-4d47-813f-07b98eb828e7)
 
 13. Pilih "Keyboard Layout", lalu klik _**Next**_
+![Screenshot 2024-10-03 222405](https://github.com/user-attachments/assets/c75236ff-ea13-4953-b22b-dfd6c5c7ebec)
 
 14. Pilih "Use wired connection", lalu klik _**Next**_
+![Screenshot 2024-10-03 222421](https://github.com/user-attachments/assets/62b4e3a7-7dc8-4e78-a5a1-6e039bbe8380)
 
 15. Pilih "Install Ubuntu", lalu klik _**Next**_
+![Screenshot 2024-10-03 222436](https://github.com/user-attachments/assets/7aa29fbf-6514-4f5c-96c8-72c4cb27421f)
 
 16. Pilih "Interactive installation", lalu klik _**Next**_
+![Screenshot 2024-10-03 222453](https://github.com/user-attachments/assets/2a998656-93e3-4040-8cea-b3f8f371add1)
 
 17. Pilih "Default selection", lalu klik _**Next**_
+![Screenshot 2024-10-03 222509](https://github.com/user-attachments/assets/e7904071-5f02-4a33-a0ee-bed956dbfc00)
 
 18. Pilih "Install third-party software for graphics and Wi-Fi hardware", lalu klik _**Next**_
+![Screenshot 2024-10-03 222530](https://github.com/user-attachments/assets/88b2a12c-cb22-4a4f-8350-562b2055db73)
 
 19. Pilih "Erase disk and install Ubuntu", lalu klik _**Next**_
+![Screenshot 2024-10-03 222559](https://github.com/user-attachments/assets/3322724e-1289-4095-bf6e-5fc5204fdae3)
 
 20. Buatlah nama dan password akun, lalu klik _**Next**_
+![Screenshot 2024-10-03 222627](https://github.com/user-attachments/assets/7ffa6945-636c-4b9e-9c20-7921710c90b9)
 
 21. Klik _**Next**_
+![Screenshot 2024-10-03 222746](https://github.com/user-attachments/assets/34156113-12f2-430b-94e2-8b3d9c0edea0)
 
 22. Klik _**Install**_
+![Screenshot 2024-10-03 222756](https://github.com/user-attachments/assets/87308b40-e452-47b5-9315-c8c34b9fedf7)
 
 23. Tunggu sampai proses installasi selesai
+![Screenshot 2024-10-03 222808](https://github.com/user-attachments/assets/bf607716-5085-47d5-9c69-06487375502c)
 
 24. Setelah proses berhasil, klik _**Restart now**_
+![Screenshot 2024-10-03 222916](https://github.com/user-attachments/assets/d4515dda-0feb-494a-879a-e9c0ed1f5389)
 
 25. Masukkan password
+![Screenshot 2024-10-03 221959](https://github.com/user-attachments/assets/7ab7311b-f39a-4d42-bfb0-9adf89e21451)
 
 26. Selesai, Ubuntu sudah bisa digunakan
+![Screenshot 2024-10-03 221350](https://github.com/user-attachments/assets/d2c5e7b9-8c34-4e20-81d8-752142af4d4a)
 
 ## 2. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point?
 ### - Root Directory
