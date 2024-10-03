@@ -13,7 +13,7 @@ Mata Kuliah : Arsitektur dan Organisasi Komputer 4
 1. Download system operasi Linux Ubuntu 24.04.01 LTS (https://ubuntu.com/download/desktop)
 ![Screenshot 2024-10-03 201520](https://github.com/user-attachments/assets/e7166bae-a0a6-4ed1-ba8c-002fa5dc743d)
 
-2. Gunakan aplikasi virtualisasi/emulator system operasi seperti virtualbox, lalu klik _**New**_
+2. Gunakan aplikasi virtualisasi/emulator system operasi seperti VirtualBox, lalu klik _**New**_
 ![Screenshot 2024-10-03 212151](https://github.com/user-attachments/assets/e623a2f7-4826-4e6d-9551-1935bf6e1491)
 
 3. Buatlah nama dan masukkan file Ubuntu pada kolom "ISO Image"
@@ -22,13 +22,13 @@ Mata Kuliah : Arsitektur dan Organisasi Komputer 4
 4. Klik _**Hardware**_, sesuaikanlah "Base Memory" dan "Processors" 
 ![Screenshot 2024-10-03 203121](https://github.com/user-attachments/assets/89459734-cad4-4721-bad0-632295734788)
 
-5. Klik tombol _**Settings**_
+5. Klik tombol _**Settings**_ pada menu VirtualBox
 ![Screenshot 2024-10-03 210405](https://github.com/user-attachments/assets/f2993aab-855e-4ae2-a507-05ddce3eb1ec)
 
 6. Klik _**Network**_ dan pada bagian "Attached to" ganti menjadi _**Internal Network**_, lalu klik _**OK**_
 ![Screenshot 2024-10-03 203446](https://github.com/user-attachments/assets/3a771059-4b28-439f-b0cb-4f591edc7fb2)
 
-7. Klik tombol _**Start**_
+7. Klik tombol _**Start**_ pada menu VirtualBox
 ![Screenshot 2024-10-03 210342](https://github.com/user-attachments/assets/bfbfac31-a9c4-40e6-978d-8a9d933748ae)
 
 8. Saat keluar tampilan seperti ini, klik _**Enter**_, lalu tunggu
