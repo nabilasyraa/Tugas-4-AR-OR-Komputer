@@ -23,8 +23,7 @@ Mata Kuliah : Arsitektur dan Organisasi Komputer 4
 ![Screenshot 2024-10-03 203121](https://github.com/user-attachments/assets/89459734-cad4-4721-bad0-632295734788)
 
 5. Klik tombol _**Settings**_
-
-![Screenshot 2024-10-03 203343](https://github.com/user-attachments/assets/d7a3e3aa-8547-4875-beb9-689ace897e39)
+![Screenshot 2024-10-03 210224](https://github.com/user-attachments/assets/45855382-a3a9-473a-be28-827d85f1fa4c)
 
 6. Klik _**Network**_ dan pada bagian _**Attached to**_ ganti menjadi _**Internal Network**_, lalu klik _**OK**_
 7. k
